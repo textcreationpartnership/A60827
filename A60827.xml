@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some queries concerning liberty of conscience directed to William Penn and Henry Care.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60827</idno>
+            <idno type="STC">Wing S4559</idno>
+            <idno type="STC">ESTC R25777</idno>
+            <idno type="EEBO-CITATION">09118849</idno>
+            <idno type="OCLC">ocm 09118849</idno>
+            <idno type="VID">42475</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60827)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42475)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1295:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some queries concerning liberty of conscience directed to William Penn and Henry Care.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penn, William, 1644-1718.</term>
+               <term>Care, Henry, 1646-1688.</term>
+               <term>Liberty of conscience.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:42475:1"/>
+            <pb n="1" facs="tcp:42475:1" rendition="simple:additions"/>
+            <head>Some Queries concerning Liberty of Conſcience, di<g ref="char:EOLhyphen"/>rected to <hi>William Penn</hi> and <hi>Henry Care.</hi>
+            </head>
+            <p n="1">1. FRiends, Is this Liberty of Conſcience, for which you ſo much contend, deſign'd only for Chriſtians, and perhaps Jews; or muſt it alſo be extended to Mahome<g ref="char:EOLhyphen"/>tans and Pagans?</p>
+            <p n="2">2. Muſt not the <hi>Indians,</hi> who worſhip the Devil, to keep him from doing them miſchief, come under the Wings of this your Chriſtian Liberty?</p>
+            <p n="3">3. The <hi>Indians</hi> under the <hi>Spaniard,</hi> who complained, that they were not ſuffer'd to worſhip their Pagods once a year, when the <hi>Spaniards</hi> worſhip'd their Pagods every day: Had they not juſt Reaſon for their Complaint, as being debarr'd the Exerciſe of their Religion? And was it not ſtrange, that the Chriſtian Idolaters ſhould be to the Pagan Idolaters ſo harſh and rigorous, and ſhould thus diſturb and moleſt them in their way of Worſhip, being ſo like their own?</p>
+            <p n="4">4. Are not the Laws of <hi>Carolina</hi> too ſtrait-laced in your Opinion, which tolerate only thoſe that believe a God: For perhaps you may think, that even profeſt Atheiſts may he uſeful Subjects, and fit to be employed by Princes?</p>
+            <p n="5">5. Is not that which you call Liberty of Conſcience, in reality a general Licenſe for Blaſphemy and Idolatry? Or in words more at length, Do not you intend, that the groſſeſt Idolatries, and the moſt horrid Blaſphemies, ſhall have their free and full ſwing, without the leaſt Puniſhment or Reſtraint?</p>
+            <p n="6">6. The Kings of <hi>Judah</hi> that beat down Idolatrous Worſhip, and who are vulgarly re<g ref="char:EOLhyphen"/>puted good Kings, were they not in your judgment, inhumane Perſecutors for Matters of meer Religion, and Uſurpers of Gods Empire over the Conſcience?</p>
+            <p n="7">7. Friend <hi>Penn,</hi> Doſt thou believe in the Council of <hi>Lateran?</hi> If thou doſt not, thou art not ſo good a Catholick as ſome take thee to be?</p>
+            <p n="8">8. Doth not a Decree of that Council oblige all good Catholicks to Extirpate Hereſie?</p>
+            <p n="9">9. Is not then the <hi>Northern</hi> Hereſie to be Extirpated?</p>
+            <p n="10">10. And is not all this pains taken for its Extirpation?</p>
+            <p n="11">11. Can any thing free good Catholicks from the Obligation of that Decree, ſave only their want of Power to perform it?</p>
+            <p n="12">12. When ever they get that Power, doth not the Obligation return?</p>
+            <p n="13">13. Can you, with all your Skill, tye up a future Popiſh Parliament? I mean, King and Parliament?</p>
+            <p n="14">14. Is not an immutable humane Law, a Monſter in Nature? And do not you dream, or would make us believe, that your <hi>Magna Charta</hi> ſhall be ſuch a Monſter?</p>
+            <p n="15">15. Will not your <hi>Magna Charta</hi> be void from the beginning, if it want the Pope's Confirmation?</p>
+            <p n="16">16. Doth not <hi>Contzen</hi> the Jeſuite, (a famous Writer of Church-Politicks) recommend Liberty of Conſcience, for a proper and effectual means, (as the Caſe may be) to propa<g ref="char:EOLhyphen"/>gate the <hi>Roman Catholick</hi> Faith? And can there be any Caſe more fit for it, than where the Papiſts are inferiour in Strength and Number, and Superiour in Favour?</p>
+            <pb n="2" facs="tcp:42475:2"/>
+            <p n="17">17. Doth not <hi>Coleman</hi> in his Tryal deny that he ever deſign'd to bring in Popery by force, or any other way ſave only by a Toleration?</p>
+            <p n="18">18. If all Sects have full Liberty, and one Sect have all the Favour and Preferment, will not that Sect ſoon out-grow and over-top the reſt? And will not all that are in Office, and all that expect or deſire to be, (that is, almoſt all the Men of Parts and In<g ref="char:EOLhyphen"/>duſtry in the Nation) have a ſtrong temptation to be of that Sect?</p>
+            <p n="19">19. Can you inform us of any Government, either paſt or preſent, wherein there are not ſome Qualifications required by Law, for thoſe that take Publick Offices and Em<g ref="char:EOLhyphen"/>ployments? Which thing You call Tramelling and Cramping the Government?</p>
+            <p n="20">20. If a Kingdom ſhould be in danger of being over run with Mahometaniſm, and to prevent it a Law were made, obliging all Publick Officers to make open profeſſion of the Chriſtian Faith, and ſolemnly to renounce the <hi>Alcoran,</hi> or ſome of the muddeſt Points of it; is not even this, in your Opinion, a Cramping and putting Tramells upon the Govern<g ref="char:EOLhyphen"/>ment; And were not ſuch a Law null and void, think you; as debarring the Prince that Liberty of Employing whom he pleaſeth, and Mahometans among the reſt, which by the Law of Nature is inherent in his Perſon? And might you not farther ſay, That Mahome<g ref="char:EOLhyphen"/>tan or Turkiſh Subjects may be very uſeful to a Prince, and that it were very unreaſonable by ſuch pernicious Religious Teſts to deprive him of their Service? And if he be minded to have Turks in his Houſhold, either in part or wholly, and Turkiſh Magiſtrates, Tur<g ref="char:EOLhyphen"/>kiſh Miniſters and Counſellors, Turkiſh Officers and Soldiers; and even whole Turkiſh Regiments, whole Turkiſh Garriſons, whole Turkiſh Armies; why ſhould any Laws hinder him? And why may he not fill the Church Dignities with Turkiſh Prieſts, what ever the Laws ſay to the contrary? And tho' theſe things tend plainly to the Deſtruction of the Kingdom, what matter is it?</p>
+            <p n="21">21. Which ought to be eſteemed of greater Authority? The Opinion of Four men in Red Gowns (purged and garbled for the purpoſe, and having the Rod ſtill over their Backs) which aſſerts the Diſpenſing Power; or the declared Judgment of two Parliaments at leaſt, which denies it and damns it?</p>
+            <p n="22">22. Were not thoſe four Men like the Speaking Head; and only ſeem'd to give a ſound to thoſe words, which were ſpoken in another Room? And were they not plainly at this Lock, Say as you are bid, or out you go, as others have gone before you?</p>
+            <p n="23">23. Was not the Martyr a ſneaking Novice in the Art of <hi>Ranny-ty,</hi> when he labour'd the Judges underhand, and in the Caſe of Ship money? Whereas now things are carried openly and bravely?</p>
+            <p n="24">24. Friends, Do you intend to have the Oath of Supremacy taken away among the other Teſts?</p>
+            <p n="25">25. Is not this Oath a Civil Teſt, tho' it may ſeem in ſome ſort Religious? Since it is only a Renouncing of a Foreign Uſurped Power. And though this Power be Spiritual, yet it draws Temporals with it, and our Civil Liberties are concern'd; for we cannot pretend to Civil Liberty, if we are under Spiritual Bondage?</p>
+            <p n="26">26. Is not the deſigning and endeavouring to enſlave Ones Country to a Foreign Uſur<g ref="char:EOLhyphen"/>ped Power, High Treaſon in its own Nature, tho' there were no poſitive Law againſt it?</p>
+            <p n="27">27. Is it not juſt and neceſſary, that perſons who are openly carrying on a Deſign ſo Deſtructive, ſhould be excluded from all Publick Command and Authority; thereby to keep them from having power to accompliſh their wicked Intentions?</p>
+            <p n="28">28. Should not a Promiſſory Clauſe be added to this Oath, whereby they that take it muſt ſolemnly Swear, That they will never promote the ſetting up, or reſtoring the Popes
+<pb n="3" facs="tcp:42475:2"/>Authority in this Kingdom, or give their conſent to it, but that they will oppoſe it by all Lawful ways and means to the utmoſt of their power?</p>
+            <p n="29">29. Is it not the ſame thing in effect, to ſet up the Popes power and to put thoſe in Office and Authority that will? And is it not the ſame thing, to put Papiſts in Office and to make them capable? For if they be once made capable, will they not have all the Offi<g ref="char:EOLhyphen"/>ces Commands and Dignities both in Church and State?</p>
+            <p n="30">30. Muſt not your Divine Magna Charta have a ſtanding Army of Mercenaries to ſup<g ref="char:EOLhyphen"/>port it? And will not this Mercenary Army be eſſential to our Religious, as well as to our Civil Liberties? And muſt there not be in it good ſtore of Dragoons?</p>
+            <p n="31">31. Why are not our Civil Liberties a little in your thoughts, as well as the Liberties of Religion? Seeing without the former, the latter will not be long-lived? And why are you not likewiſe hammering a Magna Charta for the Corporations, to reſtore them to their ancient Freedome? For will not our Trade in a ſhort time decay, and at laſt be totally ruined, if our Corporations (that manage it) be enſlaved?</p>
+            <p n="32">32. Doth not their Condition affect the whole Kingdom, ſince four parts of five of thoſe that Repreſent us in Parliament, are by them choſen?</p>
+            <p n="33">33. What Shadow of Liberty have we left, if our Repreſentatives be not free? And how can theſe be free, if thoſe that chooſe them be at Will and Pleaſure, and in down-right Servitude?</p>
+            <p n="34">34. Are they not like to be brave Champions for the Peoples Intereſt, when they can<g ref="char:EOLhyphen"/>not come to be choſen but by the Kings appointment, and both They and their Electors depend upon the Crown?</p>
+            <p n="35">35. Is not a Prince that makes Laws with a Parliament of his own Nomination, as ab<g ref="char:EOLhyphen"/>ſolute as He whoſe Edicts are Laws? And are not the Peoples Eſtates, their Liberties, and their Lives, wholly in his power?</p>
+            <p n="36">36. Is not our Conſtitution, and the frame of our Government, quite alter'd by this Helliſh Contivance? And are not the foundations of our Liberty totally ſubverted and de<g ref="char:EOLhyphen"/>ſtroyed? And hath not our Striving againſt Popery brought in Slavery into the bargain? And what ever becomes of our Religion, is not our Liberty loſt for ever?</p>
+            <p n="37">37. Friends, is not your Magna Charta concern'd in theſe Matters? For<gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+            </p>
+            <p n="38">38. Will not the Parliament now coming, when they have taken away the Teſts and Penal Laws, be diſſolved ſoon after?</p>
+            <p n="39">39. And will not the next Parliament after that, of at leaſt the Major part of it, (as Cor<g ref="char:EOLhyphen"/>porations now ſtand) be certainly Roman Catholicks?</p>
+            <p n="40">40. What avails it to provide againſt undue Returns (which You, Friends, or ſome of your party have been weekly offering at) if we ſhall be certainly ruin'd in the Elections, they being in the hands of the Papiſts?</p>
+            <p n="41">41. Do they not deſerve to be Hang'd for Fools, that cannot govern Elections, when they may put in and put out the Electors at their pleaſure?</p>
+            <p n="42">42. Will it not therefore be a thing of no difficulty to eſtabliſh Popery by a Law? And then, will not your Magna Charta be damn'd much eaſier than it was made?</p>
+            <p n="43">43. Though it be made unalterable by a Clauſe as ſtrong as can be devis'd, will they not firſt repeal that Clauſe, and then down goes Magna Charta?</p>
+            <p n="44">44. Is it not the opinion of good Catholicks that no Faith is to be kept with Hereticks?</p>
+            <p n="45">45. How can we rely upon that Mans Promiſes, who will be told by thoſe whom he muſt believe, that 'tis meritorious to break them, and damnation to keep them?</p>
+            <p n="46">46. Were not He a rare Catholick indeed, who by ſparing and indulging Hereticks, whom he hates, would damn his own Soul?</p>
+            <pb n="4" facs="tcp:42475:3" rendition="simple:additions"/>
+            <p n="47">47. Is it not alſo the opinion of good Catholicks, that Hereticks ought not to have com<g ref="char:EOLhyphen"/>mon Juſtice? Which was the way in <hi>France,</hi> before they fell to Dragooning.</p>
+            <p n="48">48. Will it not in a while be found expedient to revive the Writ <hi>de Haeretico comburendo?</hi> The poor Hereticks thought themſelves very cunning in taking away that Writ; as if the Catholicks could not reſtore it, when they have got the power.</p>
+            <p n="49">49. Will not the Writ <hi>de Excommunicato capiendo</hi> do pretty well in the mean time? Since, they may with eaſe excommunicate all the Hereticks, and then lay them in Jayl, Which is a moſt as good as Hanging or Burning them. And now we talk of Jayls,</p>
+            <p n="50">50. Is not the <hi>Habeas Corpus</hi> Act a Cramping and Tramelling of the Government, and therefore fit to be graciouſly diſpens'd with? Or to ſave that labour, will not the Parliament that repeals the Teſts, repeal that Act likewiſe, with all other Acts of the like nature?</p>
+            <p n="51">51. Would it not be a brave Exchange, if they that ſet up the new Magna Charta, ſhould give up the Old one?</p>
+            <p n="52">52. Can it in good ſadneſs be reaſonably expected, that a religious and devoted Prince, ſhould draw the guilt of Sacriledge upon his own Head, by not reſtoring Abbey Lands when it ſhall be in his power to do it? And will not the Directors of his Conſcience be ſure to mind him of it, and put it home to him?</p>
+            <p n="53">53. Will not the thing in a very ſhort time be clearly in his power: and be eaſily ac<g ref="char:EOLhyphen"/>compliſht by the ſame Methods, by which the Penal Laws were repealed? That is, by a prudent directing and managing the Elections, and framing (we muſt not ſay packing) a Parliament for the purpoſe?</p>
+            <p n="54">54. Muſt we not therefore have three Parliaments yet, to compleat our Happineſs? One to repeal the Teſts and Penal Laws, another to eſtabliſh Popery, and the third to reſtore Church Lands. And hath not the laſt Parliament, which gave the money, thereby in effect done all the reſt.</p>
+            <p n="55">55. When theſe things are finiſht, will there be any further need of Parliaments? Will not a Standing Army ſupply their place? And may we not hope for the felicities of a <hi>French</hi> Government?</p>
+            <p n="56">56. Since this <hi>French</hi> Government is already ſet up in <hi>New England,</hi> why ſhould we not have it here? And is it not a good ſign that in due time we may have it?</p>
+            <p n="57">57. Had not all theſe good Works been finiſhed long ſince, if a certain late <hi>Indian</hi> King had not been a great ſluggard and Coward: And ſuffer'd himſelf to be ſo baſely baffled out of his Declarations of Indulgence? For which his Soul might have roar'd in Purgatory to this day, if his Holineſs had not ſtood his Friend.</p>
+            <p>Here I thought to have ended: but another Queſtion crouds in, and I cannot keep it back.</p>
+            <p n="58">58. If other means prove ineffectual, will it not be convenient (for the quicker diſpatch of Hereticks) to diſpenſe with the Penal Laws againſt Murder, that ſo they may be taken off, without the dull formalities of Law?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
